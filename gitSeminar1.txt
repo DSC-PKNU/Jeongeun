@@ -1,6 +1,6 @@
-add git init
-git clone 링크 => 다운로드
-git add 파일 => 
-git status
-git commit -m "메시지"
-git push => git에 업로드
+git init
+git clone 링크
+git add 파일 		=> 처리할 파일 등록(staging) (add . => 모든 파일)
+git status 			=> 변경된 사항 있는지 알려줌(변경되면 add 다시)
+git commit -m "메시지" 
+git push
